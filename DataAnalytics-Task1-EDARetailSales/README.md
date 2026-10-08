@@ -28,3 +28,14 @@ The project focuses on performing Exploratory Data Analysis (EDA) on a retail sa
 
 - `Task1_Retail_Sales_EDA.ipynb` - Complete analysis notebook
 - `README.md` - Project documentation
+
+## Results
+
+### Sales Trend Analysis
+![Monthly Sales Analysis](screenshots/monthly_sales.png)
+
+### Product Category Analysis
+![Product Category Revenue](screenshots/category_revenue.png)
+
+### Correlation Analysis
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
