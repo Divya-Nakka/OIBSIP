@@ -35,7 +35,7 @@ The project focuses on performing Exploratory Data Analysis (EDA) on a retail sa
 ![Monthly Sales Analysis](Screenshots/monthly_sales.png)
 
 ### Product Category Analysis
-![Product Category Revenue](screenshots/category_revenue.png)
+![Product Category Revenue](Screenshots/category_revenue.png)
 
 ### Correlation Analysis
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+![Correlation Heatmap](Screenshots/correlation_heatmap.png)
