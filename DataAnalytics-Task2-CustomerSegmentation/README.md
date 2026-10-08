@@ -29,3 +29,14 @@ The project focuses on customer segmentation using data analysis and clustering 
 
 - `Task2_Customer_Segmentation.ipynb` - Complete analysis notebook
 - `README.md` - Project documentation
+
+  ## Results
+
+### Elbow Method
+![Elbow Method](Screenshots/elbow_method.png)
+
+### Customer Segmentation
+![Customer Clusters](Screenshots/customer_clusters.png)
+
+### Cluster Analysis
+![Cluster Analysis](Screenshots/cluster_analysis.png)
